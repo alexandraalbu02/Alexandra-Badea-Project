@@ -1,0 +1,4 @@
+I created 2 index files (index.html and about.html).
+I also created two css files about.css and style-index.css.
+I alo uploaded the images and gifs that i used for my blog.
+I created the files in visual studio code 2019 and bootstrap 4.
